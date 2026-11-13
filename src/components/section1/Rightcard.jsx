@@ -2,7 +2,7 @@ import React from 'react'
 
 const Rightcard = (props) => {
   return (
-    <div className="relative w-[300px] h-[100%] rounded-[32px] overflow-hidden">
+    <div className="relative w-75 h-full rounded-4xl overflow-hidden">
 
       <img
         className="w-full h-full object-cover"
