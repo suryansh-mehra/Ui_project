@@ -77,7 +77,11 @@ npm run dev
 ```
 
 ---
+# Preview
 
+<img width="1920" height="1080" alt="Screenshot 2026-04-16 203308" src="https://github.com/user-attachments/assets/ba620399-eec3-49e7-b1a7-d7f00ca8d0e3" />
+
+---
 ## Concepts Used
 
 * Flexbox for layout
